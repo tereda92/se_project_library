@@ -452,3 +452,15 @@
 .footer__copyright {
   margin: 108px 0 0 0;
 }
+
+.events__more:hover {
+  color: #1f69c9;
+}
+
+.header__link:hover {
+  color: #1f69c9;
+}
+
+.nav__link:hover {
+  color: #1f69c9;
+}
